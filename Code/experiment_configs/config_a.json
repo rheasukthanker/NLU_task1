@@ -1,0 +1,23 @@
+{
+    "vocab_size": 20000,
+    "sentence_len_with_tags": 30,
+    "condgen_sentence_len_with_tags": 21,
+    "train_experiment": "a",
+    "test_experiment": "evaluate",
+    "softmax_size": 512,
+    "embedding_size": 100,
+    "batch_size": 64,
+    "learning_rate": 0.0001,
+    "grad_clip": 5,
+    "num_epochs": 7,
+    "log_dir": "log",
+    "cp_dir": "cp",
+    "cp_period": 1,
+    "data_train": "data/sentences_train.txt",
+    "data_test": "data/sentences_test.txt",
+    "data_eval": "data/sentences_eval.txt",
+    "data_continuation": "data/sentences_continuation.txt",
+    "data_embedding": "data/wordembeddings-dim100.word2vec",
+    "vocab_handler_store_path": "data/vocab_handler_train.pkl",
+    "testing_checkpoint_file": "cp_c/checkpoint5.ckpt"
+}
