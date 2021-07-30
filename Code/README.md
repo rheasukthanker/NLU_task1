@@ -1,9 +1,9 @@
 # NLU Task 1: Building a Language Model
 ## Authors: Group 04
-1. Leopold Franz (l.franz@student.ethz.ch)
-2. Felix Graule (graulef@student.ethz.ch)
-3. Rhea Sukthanker (srhea@student.ethz.ch)
-4. Esref Özdemir (esrefo@student.ethz.ch)
+1. Leopold Franz 
+2. Felix Graule 
+3. Rhea Sukthanker
+4. Esref Özdemir
 
 ## Project Structure
 We have separated the logic into several files. A quick summary of each file is as follows:
